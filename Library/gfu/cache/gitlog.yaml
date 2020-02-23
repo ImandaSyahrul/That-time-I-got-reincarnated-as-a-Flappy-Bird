@@ -1,0 +1,1185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-09T00:37:34.185+07:00
+  initializedAtString: 2019-09-08T20:39:47.711+07:00
+  log:
+  - commitID: 250a0173c145ca1541c4bd4489fa521f4ffa4c10
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Added BGM and GameOver Screen
+    description: 
+    timeString: 2019-09-09T00:37:13.000+07:00
+    commitTimeString: 2019-09-09T00:37:13.000+07:00
+    changes:
+    - path: Assets\Sprites\Animations\GameOverText.anim
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\GameOverText.anim
+      projectPath: Assets\Sprites\Animations\GameOverText.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\GameOverText.anim.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\GameOverText.anim.meta
+      projectPath: Assets\Sprites\Animations\GameOverText.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Text.controller
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Text.controller
+      projectPath: Assets\Sprites\Animations\Text.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Text.controller.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Text.controller.meta
+      projectPath: Assets\Sprites\Animations\Text.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 79ee4435ad726083b3ac27314f63af49ffb76170
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Added GameOver Panel and Apps Icon
+    description: 
+    timeString: 2019-09-09T00:19:39.000+07:00
+    commitTimeString: 2019-09-09T00:19:39.000+07:00
+    changes:
+    - path: Assets\Scenes\Opening.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\Opening.unity
+      projectPath: Assets\Scenes\Opening.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Image (1).controller
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Image
+        (1).controller
+      projectPath: Assets\Sprites\Animations\Image (1).controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\birdOnLogo.anim
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\birdOnLogo.anim
+      projectPath: Assets\Sprites\Animations\birdOnLogo.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\chibidie.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\chibidie.png
+      projectPath: Assets\Sprites\GUI\chibidie.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\chibidie.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\chibidie.png.meta
+      projectPath: Assets\Sprites\GUI\chibidie.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\icon.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\icon.png
+      projectPath: Assets\Sprites\icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\icon.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\icon.png.meta
+      projectPath: Assets\Sprites\icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 274d6e0930a7b1126d3742072df75d6892a62b8a
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Added Menu with Play and Exit Button
+    description: 
+    timeString: 2019-09-08T23:11:28.000+07:00
+    commitTimeString: 2019-09-08T23:11:28.000+07:00
+    changes:
+    - path: Assets\Scenes\Opening.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\Opening.unity
+      projectPath: Assets\Scenes\Opening.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainMenu.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\MainMenu.cs
+      projectPath: Assets\Scripts\MainMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainMenu.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\MainMenu.cs.meta
+      projectPath: Assets\Scripts\MainMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\yahoo.mp3
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\yahoo.mp3
+      projectPath: Assets\Sound\SFX\yahoo.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\yahoo.mp3.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\yahoo.mp3.meta
+      projectPath: Assets\Sound\SFX\yahoo.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Image (1).controller
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Image
+        (1).controller
+      projectPath: Assets\Sprites\Animations\Image (1).controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Image (1).controller.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Image
+        (1).controller.meta
+      projectPath: Assets\Sprites\Animations\Image (1).controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\birdOnLogo.anim
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\birdOnLogo.anim
+      projectPath: Assets\Sprites\Animations\birdOnLogo.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\birdOnLogo.anim.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\birdOnLogo.anim.meta
+      projectPath: Assets\Sprites\Animations\birdOnLogo.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\LogoFlappyDattaKen.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\LogoFlappyDattaKen.png
+      projectPath: Assets\Sprites\GUI\LogoFlappyDattaKen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\LogoFlappyDattaKen.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\LogoFlappyDattaKen.png.meta
+      projectPath: Assets\Sprites\GUI\LogoFlappyDattaKen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\bgMainmenu.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\bgMainmenu.png
+      projectPath: Assets\Sprites\GUI\bgMainmenu.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\bgMainmenu.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\bgMainmenu.png.meta
+      projectPath: Assets\Sprites\GUI\bgMainmenu.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\buttonExit.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\buttonExit.png
+      projectPath: Assets\Sprites\GUI\buttonExit.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\buttonExit.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\buttonExit.png.meta
+      projectPath: Assets\Sprites\GUI\buttonExit.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\buttonPlay.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\buttonPlay.png
+      projectPath: Assets\Sprites\GUI\buttonPlay.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\buttonPlay.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\buttonPlay.png.meta
+      projectPath: Assets\Sprites\GUI\buttonPlay.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\flappy.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\flappy.png
+      projectPath: Assets\Sprites\GUI\flappy.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\flappy.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\flappy.png.meta
+      projectPath: Assets\Sprites\GUI\flappy.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 6f1c201df9010ea311cf3a1d28fd192a9c33e43d
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Init Repository
+    description: 
+    timeString: 2019-09-08T20:40:32.000+07:00
+    commitTimeString: 2019-09-08T20:40:32.000+07:00
+    changes:
+    - path: Assets\Font.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Font.meta
+      projectPath: Assets\Font.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\04B_19__.TTF
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Font\04B_19__.TTF
+      projectPath: Assets\Font\04B_19__.TTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Font\04B_19__.TTF.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Font\04B_19__.TTF.meta
+      projectPath: Assets\Font\04B_19__.TTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Opening.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\Opening.unity
+      projectPath: Assets\Scenes\Opening.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Opening.unity.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\Opening.unity.meta
+      projectPath: Assets\Scenes\Opening.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Bird.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Bird.cs
+      projectPath: Assets\Scripts\Bird.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Bird.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Bird.cs.meta
+      projectPath: Assets\Scripts\Bird.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Destroyer.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Destroyer.cs
+      projectPath: Assets\Scripts\Destroyer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Destroyer.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Destroyer.cs.meta
+      projectPath: Assets\Scripts\Destroyer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Ground.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Ground.cs
+      projectPath: Assets\Scripts\Ground.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Ground.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Ground.cs.meta
+      projectPath: Assets\Scripts\Ground.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GroundSpawner.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\GroundSpawner.cs
+      projectPath: Assets\Scripts\GroundSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GroundSpawner.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\GroundSpawner.cs.meta
+      projectPath: Assets\Scripts\GroundSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Parallax.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Parallax.cs
+      projectPath: Assets\Scripts\Parallax.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Parallax.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Parallax.cs.meta
+      projectPath: Assets\Scripts\Parallax.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Pipe.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Pipe.cs
+      projectPath: Assets\Scripts\Pipe.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Pipe.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Pipe.cs.meta
+      projectPath: Assets\Scripts\Pipe.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PipeSpawner.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\PipeSpawner.cs
+      projectPath: Assets\Scripts\PipeSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PipeSpawner.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\PipeSpawner.cs.meta
+      projectPath: Assets\Scripts\PipeSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Point.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Point.cs
+      projectPath: Assets\Scripts\Point.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Point.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\Point.cs.meta
+      projectPath: Assets\Scripts\Point.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneLoader.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\SceneLoader.cs
+      projectPath: Assets\Scripts\SceneLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneLoader.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Scripts\SceneLoader.cs.meta
+      projectPath: Assets\Scripts\SceneLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound.meta
+      projectPath: Assets\Sound.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\BGM.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\BGM.meta
+      projectPath: Assets\Sound\BGM.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\Master.mixer
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\Master.mixer
+      projectPath: Assets\Sound\Master.mixer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\Master.mixer.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\Master.mixer.meta
+      projectPath: Assets\Sound\Master.mixer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX.meta
+      projectPath: Assets\Sound\SFX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\die.ogg
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\die.ogg
+      projectPath: Assets\Sound\SFX\die.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\die.ogg.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\die.ogg.meta
+      projectPath: Assets\Sound\SFX\die.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\hit.ogg
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\hit.ogg
+      projectPath: Assets\Sound\SFX\hit.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\hit.ogg.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\hit.ogg.meta
+      projectPath: Assets\Sound\SFX\hit.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\oh.mp3
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\oh.mp3
+      projectPath: Assets\Sound\SFX\oh.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\oh.mp3.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\oh.mp3.meta
+      projectPath: Assets\Sound\SFX\oh.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\oooh.mp3
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\oooh.mp3
+      projectPath: Assets\Sound\SFX\oooh.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\oooh.mp3.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\oooh.mp3.meta
+      projectPath: Assets\Sound\SFX\oooh.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\point.ogg
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\point.ogg
+      projectPath: Assets\Sound\SFX\point.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\point.ogg.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\point.ogg.meta
+      projectPath: Assets\Sound\SFX\point.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\sonnaa.mp3
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\sonnaa.mp3
+      projectPath: Assets\Sound\SFX\sonnaa.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\sonnaa.mp3.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\sonnaa.mp3.meta
+      projectPath: Assets\Sound\SFX\sonnaa.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\swoosh.ogg
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\swoosh.ogg
+      projectPath: Assets\Sound\SFX\swoosh.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\swoosh.ogg.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\swoosh.ogg.meta
+      projectPath: Assets\Sound\SFX\swoosh.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\wing.ogg
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\wing.ogg
+      projectPath: Assets\Sound\SFX\wing.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\wing.ogg.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\wing.ogg.meta
+      projectPath: Assets\Sound\SFX\wing.ogg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\wuaa.mp3
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\wuaa.mp3
+      projectPath: Assets\Sound\SFX\wuaa.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sound\SFX\wuaa.mp3.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sound\SFX\wuaa.mp3.meta
+      projectPath: Assets\Sound\SFX\wuaa.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations.meta
+      projectPath: Assets\Sprites\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Birds_down.controller
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Birds_down.controller
+      projectPath: Assets\Sprites\Animations\Birds_down.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\Birds_down.controller.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\Birds_down.controller.meta
+      projectPath: Assets\Sprites\Animations\Birds_down.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\birds.anim
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\birds.anim
+      projectPath: Assets\Sprites\Animations\birds.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Animations\birds.anim.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Animations\birds.anim.meta
+      projectPath: Assets\Sprites\Animations\birds.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Birds.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Birds.png
+      projectPath: Assets\Sprites\Birds.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Birds.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Birds.png.meta
+      projectPath: Assets\Sprites\Birds.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI.meta
+      projectPath: Assets\Sprites\GUI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\gameover.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\gameover.png
+      projectPath: Assets\Sprites\GUI\gameover.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\gameover.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\gameover.png.meta
+      projectPath: Assets\Sprites\GUI\gameover.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\message.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\message.png
+      projectPath: Assets\Sprites\GUI\message.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\GUI\message.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\GUI\message.png.meta
+      projectPath: Assets\Sprites\GUI\message.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Ground.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Ground.png
+      projectPath: Assets\Sprites\Ground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Ground.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\Ground.png.meta
+      projectPath: Assets\Sprites\Ground.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\background-day.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\background-day.png
+      projectPath: Assets\Sprites\background-day.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\background-day.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\background-day.png.meta
+      projectPath: Assets\Sprites\background-day.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\background-night.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\background-night.png
+      projectPath: Assets\Sprites\background-night.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\background-night.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\background-night.png.meta
+      projectPath: Assets\Sprites\background-night.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bgFlappy2.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\bgFlappy2.png
+      projectPath: Assets\Sprites\bgFlappy2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\bgFlappy2.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\bgFlappy2.png.meta
+      projectPath: Assets\Sprites\bgFlappy2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\paral1.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\paral1.png
+      projectPath: Assets\Sprites\paral1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\paral1.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\paral1.png.meta
+      projectPath: Assets\Sprites\paral1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\pipe-green.png
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\pipe-green.png
+      projectPath: Assets\Sprites\pipe-green.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\pipe-green.png.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\Sprites\pipe-green.png.meta
+      projectPath: Assets\Sprites\pipe-green.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 7d92152719c84a93edfea5bff1f2ed7019a3f2e1
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Initial commit
+    description: 
+    timeString: 2019-09-08T20:39:46.000+07:00
+    commitTimeString: 2019-09-08T20:39:46.000+07:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\Flapp Bird - Agate\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
