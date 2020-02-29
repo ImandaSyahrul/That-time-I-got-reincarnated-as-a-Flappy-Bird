@@ -52,12 +52,13 @@ public class PipeSpawner : MonoBehaviour
 		//Mengaktifkan game object newPipeUp
 		newPipeDown.gameObject.SetActive(true);
 
+		holeSize = Random.Range(2,4);
 		//menempatkan posisi dari pipa yang sudah terbentuk agar memiliki lubang di tengahnya
 		newPipeUp.transform.position += Vector3.up * (holeSize / 2);
 		newPipeDown.transform.position += Vector3.down * (holeSize / 2);
 
 		//menempatkan posisi pipa yang telah dibentuk agar posisinya menyesuaikan dengan fungsi Sin
-		float y = maxMinOffset * Mathf.Cos(Time.time);
+		float y = maxMinOffset * Mathf.Cos(Random.Range(0,180));
 		newPipeUp.transform.position += Vector3.up * y;
 		newPipeDown.transform.position += Vector3.up * y;
 

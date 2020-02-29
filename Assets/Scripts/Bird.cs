@@ -35,16 +35,19 @@ public class Bird : MonoBehaviour
 		nextClick = 0;
 		nextKey = "f";
 	}
+	
 	//Update setiap frame  
 	void Update()
 	{
+
+		
 		//Melakukan pengecekan jika belum mati dan klik kiri pada mouse atau space
 		if (!isDead && ( Input.GetMouseButtonDown(nextClick) || Input.GetKeyDown(nextKey)))
 		{
 			//Burung meloncat
 			Jump();
 
-			if (nextClick == 0)
+			if (nextClick == 0) // menambah difficulty
 			{
 				nextClick = 1;
 				nextKey = "d";
@@ -55,6 +58,10 @@ public class Bird : MonoBehaviour
 				nextKey = "f";
 			}
 		}
+		float angle = Vector3.Angle(Vector3.right, rigidBody2d.velocity);
+		if (rigidBody2d.velocity.y < 0)
+			angle = -angle/2;
+		transform.eulerAngles = new Vector3(0, 0, angle/2);
 	}
 	//Fungsi untuk mengecek sudah mati apa belum
 	public bool IsDead()
@@ -87,6 +94,7 @@ public class Bird : MonoBehaviour
 
 			//Menambahkan gaya ke arah sumbu y agar burung meloncat
 			rigidBody2d.AddForce(new Vector2(0, upForce));
+
 		}
 
 		//Pengecekan Null variable
