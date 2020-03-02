@@ -17,13 +17,17 @@ public class Bullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = (transform.right) * speed * Time.deltaTime;
+        rb.velocity = transform.right*speed*10f;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         //menghancurkan pipe
-        if (collision.gameObject.CompareTag("Obstacle")) 
+        if (collision.gameObject.CompareTag("Obstacle"))
+        {
             Destroy(collision.gameObject);
+            Destroy(gameObject);
+        }
+            
     }
 }
