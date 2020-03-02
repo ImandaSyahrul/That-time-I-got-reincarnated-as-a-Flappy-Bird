@@ -17,7 +17,7 @@ public class Bullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = (transform.forward) * speed * Time.deltaTime;
+        rb.velocity = (transform.right) * speed * Time.deltaTime;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
