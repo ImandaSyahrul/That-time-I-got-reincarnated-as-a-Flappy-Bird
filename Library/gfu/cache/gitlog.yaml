@@ -13,9 +13,1267 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-03T01:50:07.858+07:00
+  lastUpdatedAtString: 2020-03-03T01:55:51.946+07:00
   initializedAtString: 2020-03-03T00:26:38.914+07:00
   log:
+  - commitID: 182a6c6d98ed5bc98eb09d760af857af24bc54bf
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Add build folder
+    description: 
+    timeString: 2020-03-03T01:54:04.000+07:00
+    commitTimeString: 2020-03-03T01:54:04.000+07:00
+    changes:
+    - path: Assets\Scenes\Opening.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scenes\Opening.unity
+      projectPath: Assets\Scenes\Opening.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Configuration.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Configuration.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Configuration.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Data.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Data.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Data.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Drawing.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Drawing.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Drawing.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.EnterpriseServices.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.EnterpriseServices.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.EnterpriseServices.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Globalization.Extensions.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Globalization.Extensions.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.IO.Compression.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Net.Http.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Net.Http.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Net.Http.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Numerics.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Numerics.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Numerics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Runtime.Serialization.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Transactions.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Transactions.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Transactions.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.Linq.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.Linq.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.Linq.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.Xml.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Xml.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\System.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\System.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.xml
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\netstandard.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Managed\netstandard.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\netstandard.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\boot.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\boot.config
+      projectPath: Library\PlayerDataCache\Win64\Data\boot.config
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\level0
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\level0
+      projectPath: Library\PlayerDataCache\Win64\Data\level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\level1
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\level1
+      projectPath: Library\PlayerDataCache\Win64\Data\level1
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 8616c2cdcc3aa1c1cbc495814070bfbad2582572
     mergeA: 
     mergeB: 
