@@ -326,7 +326,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -453.00003, y: -118.00001}
+  m_AnchoredPosition: {x: -458.00003, y: -120.340004}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &449883248
@@ -403,7 +403,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -453, y: -230.66}
+  m_AnchoredPosition: {x: -458, y: -233}
   m_SizeDelta: {x: 302.89, y: 151.52}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &570196529
@@ -437,7 +437,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: tekan 'F' dan 'D' atau klik kiri-kanan mouse secara bergantian
+  m_Text: tekan 'F' dan 'D' atau klik kiri-kanan mouse secara bergantian, 'Space'
+    untuk menembak
 --- !u!222 &570196530
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -953,7 +954,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -375, y: 9}
+  m_AnchoredPosition: {x: -0.000030518, y: 22}
   m_SizeDelta: {x: 34, y: 24}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1475284183
@@ -1372,7 +1373,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -374, y: 159.8}
+  m_AnchoredPosition: {x: 0.000091553, y: 180.8}
   m_SizeDelta: {x: 388.8, y: 319.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1841526062

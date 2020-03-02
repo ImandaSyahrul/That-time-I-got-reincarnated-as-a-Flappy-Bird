@@ -13,9 +13,283 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-03T00:51:34.549+07:00
+  lastUpdatedAtString: 2020-03-03T01:50:07.858+07:00
   initializedAtString: 2020-03-03T00:26:38.914+07:00
   log:
+  - commitID: 8616c2cdcc3aa1c1cbc495814070bfbad2582572
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Merge pull request from shooting
+    description: 
+    timeString: 2020-03-03T01:49:27.000+07:00
+    commitTimeString: 2020-03-03T01:49:27.000+07:00
+    changes:
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 29371fada3f08c5d9dd0c75adbb65b1c98c26296
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Complete shooting mechanic
+    description: 
+    timeString: 2020-03-03T01:46:21.000+07:00
+    commitTimeString: 2020-03-03T01:46:21.000+07:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Bullet.prefab
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Prefabs\Bullet.prefab
+      projectPath: Assets\Prefabs\Bullet.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Gameplay.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scenes\Gameplay.unity
+      projectPath: Assets\Scenes\Gameplay.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Bullet.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scripts\Bullet.cs
+      projectPath: Assets\Scripts\Bullet.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\FireController.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scripts\FireController.cs
+      projectPath: Assets\Scripts\FireController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FireController.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scripts\FireController.cs.meta
+      projectPath: Assets\Scripts\FireController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\2a2172-mainStage.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\StateCache\SceneView\2a2172-mainStage.json
+      projectPath: Library\StateCache\SceneView\2a2172-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: cf09bc8ed81bb63441cf25f45ee189a7be08ea54
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Add bullet prefabs to develop on shooting branch
+    description: 
+    timeString: 2020-03-03T01:01:42.000+07:00
+    commitTimeString: 2020-03-03T01:01:42.000+07:00
+    changes:
+    - path: Assets\Prefabs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Bullet.prefab
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Prefabs\Bullet.prefab
+      projectPath: Assets\Prefabs\Bullet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Bullet.prefab.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Prefabs\Bullet.prefab.meta
+      projectPath: Assets\Prefabs\Bullet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Gameplay.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scenes\Gameplay.unity
+      projectPath: Assets\Scenes\Gameplay.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Bullet.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scripts\Bullet.cs
+      projectPath: Assets\Scripts\Bullet.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\2a2172-mainStage.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\StateCache\SceneView\2a2172-mainStage.json
+      projectPath: Library\StateCache\SceneView\2a2172-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: ed8c8e740ab798b846b6ebcccc1990d27028d916
     mergeA: 
     mergeB: 
