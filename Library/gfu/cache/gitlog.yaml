@@ -13,9 +13,1287 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-03T01:55:51.946+07:00
+  lastUpdatedAtString: 2020-03-03T01:59:49.832+07:00
   initializedAtString: 2020-03-03T00:26:38.914+07:00
   log:
+  - commitID: 5c5a251f7ccf88de17ba1ee4c7293ce982061a1e
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Add build folder and Update .gitignore
+    description: 
+    timeString: 2020-03-03T01:57:02.000+07:00
+    commitTimeString: 2020-03-03T01:57:02.000+07:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\machine.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\machine.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\settings.map
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\settings.map
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\web.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\web.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\2.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\machine.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\machine.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\settings.map
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\settings.map
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\web.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\web.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\machine.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\machine.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\settings.map
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\settings.map
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\web.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\web.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\4.5\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\browscap.ini
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\browscap.ini
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\browscap.ini
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird.exe
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird.exe
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\Assembly-CSharp.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\Mono.Security.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\Mono.Security.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\Mono.Security.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Configuration.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Configuration.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Configuration.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Core.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Core.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Core.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Data.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Data.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Data.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Drawing.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Drawing.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Drawing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.EnterpriseServices.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.EnterpriseServices.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.EnterpriseServices.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Globalization.Extensions.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Globalization.Extensions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.IO.Compression.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.IO.Compression.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.IO.Compression.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Net.Http.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Net.Http.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Net.Http.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Numerics.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Numerics.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Numerics.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Runtime.Serialization.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Runtime.Serialization.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Transactions.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Transactions.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Transactions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Xml.Linq.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Xml.Linq.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Xml.Linq.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.Xml.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.Xml.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\System.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\System.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\System.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\Unity.Timeline.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.AIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ARModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ARModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.DSPGraphModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.DSPGraphModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.DSPGraphModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.GridModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.GridModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.InputLegacyModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.InputLegacyModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.InputLegacyModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.InputModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.InputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.Purchasing.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.Purchasing.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.Purchasing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.SpatialTracking.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SpatialTracking.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.SubsystemsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SubsystemsModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.SubsystemsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UI.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UIModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.VRModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.WindModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.WindModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.XRModule.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.XRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\UnityEngine.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\UnityEngine.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\mscorlib.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\mscorlib.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\mscorlib.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Managed\netstandard.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Managed\netstandard.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Managed\netstandard.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Resources\unity default resources
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Resources\unity default resources
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Resources\unity default resources
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\Resources\unity_builtin_extra
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\Resources\unity_builtin_extra
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\app.info
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\app.info
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\app.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\boot.config
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\boot.config
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\boot.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\globalgamemanagers
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\globalgamemanagers
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\globalgamemanagers.assets
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\globalgamemanagers.assets
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\level0
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\level0
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\level0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\level1
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\level1
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\level1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\sharedassets0.assets
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\sharedassets0.assets
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\sharedassets0.assets.resS
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\sharedassets0.assets.resS
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\sharedassets0.resource
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\sharedassets0.resource
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\sharedassets0.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\sharedassets1.assets
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\sharedassets1.assets
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\sharedassets1.assets.resS
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\sharedassets1.assets.resS
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\sharedassets1.assets.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\That Time I Got Reincarnated
+        As A Flappy Bird_Data\sharedassets1.resource
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\That
+        Time I Got Reincarnated As A Flappy Bird_Data\sharedassets1.resource
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\That Time
+        I Got Reincarnated As A Flappy Bird_Data\sharedassets1.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\UnityCrashHandler64.exe
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\UnityCrashHandler64.exe
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\UnityCrashHandler64.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Build\That Time I Got Reincarnated As A Flappy Bird\UnityPlayer.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Build\That Time I Got Reincarnated As A Flappy Bird\UnityPlayer.dll
+      projectPath: Build\That Time I Got Reincarnated As A Flappy Bird\UnityPlayer.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 182a6c6d98ed5bc98eb09d760af857af24bc54bf
     mergeA: 
     mergeB: 
