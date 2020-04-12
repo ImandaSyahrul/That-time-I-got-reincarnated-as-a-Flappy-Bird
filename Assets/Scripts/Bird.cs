@@ -58,6 +58,7 @@ public class Bird : MonoBehaviour
 				nextKey = "f";
 			}
 		}
+		//Merotasikan burung saat bergerak
 		float angle = Vector3.Angle(Vector3.right, rigidBody2d.velocity);
 		if (rigidBody2d.velocity.y < 0)
 			angle = -angle/2;

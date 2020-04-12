@@ -13,69 +13,356 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-08T23:32:35.816+07:00
-  initializedAtString: 2020-03-08T23:24:32.282+07:00
+  lastUpdatedAtString: 2020-04-12T17:39:53.624+07:00
+  initializedAtString: 2020-04-12T17:39:53.624+07:00
   entries:
-  - path: Assets\Scenes\Gameplay.unity
+  - path: Assembly-CSharp.csproj
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
-      As A Flappy Bird\Assets\Scenes\Gameplay.unity
-    projectPath: Assets\Scenes\Gameplay.unity
+      As A Flappy Bird\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Assets\Scripts\Bird.cs
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Assets\Scripts\Bird.cs
+    projectPath: Assets\Scripts\Bird.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Bullet.cs
+  - path: CodeCoverage\Report\Assembly_CSharp_Bird.htm
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
-      As A Flappy Bird\Assets\Scripts\Bullet.cs
-    projectPath: Assets\Scripts\Bullet.cs
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Bird.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Bird.htm
     originalPath: 
-    indexStatus: 0
+    indexStatus: 4
     workTreeStatus: 3
-  - path: Assets\Scripts\FireController.cs
+  - path: CodeCoverage\Report\Assembly_CSharp_Bullet.htm
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
-      As A Flappy Bird\Assets\Scripts\FireController.cs
-    projectPath: Assets\Scripts\FireController.cs
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Bullet.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Bullet.htm
     originalPath: 
-    indexStatus: 0
+    indexStatus: 4
     workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Destroyer.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Destroyer.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Destroyer.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Editor_firstpass_ExtensionLoader.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Editor_firstpass_ExtensionLoader.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Editor_firstpass_ExtensionLoader.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Editor_firstpass_UnityAPIWrapper.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Editor_firstpass_UnityAPIWrapper.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Editor_firstpass_UnityAPIWrapper.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_FireController.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_FireController.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_FireController.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Ground.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Ground.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Ground.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_GroundSpawner.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_GroundSpawner.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_GroundSpawner.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_MainMenu.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_MainMenu.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_MainMenu.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Parallax.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Parallax.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Parallax.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Pipe.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Pipe.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Pipe.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_PipeSpawner.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_PipeSpawner.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_PipeSpawner.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_Point.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_Point.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_Point.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\Assembly_CSharp_SceneLoader.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Assembly_CSharp_SceneLoader.htm
+    projectPath: CodeCoverage\Report\Assembly_CSharp_SceneLoader.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\badge_linecoverage.png
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\badge_linecoverage.png
+    projectPath: CodeCoverage\Report\badge_linecoverage.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\badge_linecoverage.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\badge_linecoverage.svg
+    projectPath: CodeCoverage\Report\badge_linecoverage.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\class.js
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\class.js
+    projectPath: CodeCoverage\Report\class.js
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: CodeCoverage\Report\icon_cube.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_cube.svg
+    projectPath: CodeCoverage\Report\icon_cube.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_down-dir_active.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_down-dir_active.svg
+    projectPath: CodeCoverage\Report\icon_down-dir_active.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_fork.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_fork.svg
+    projectPath: CodeCoverage\Report\icon_fork.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_info-circled.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_info-circled.svg
+    projectPath: CodeCoverage\Report\icon_info-circled.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_minus.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_minus.svg
+    projectPath: CodeCoverage\Report\icon_minus.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_plus.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_plus.svg
+    projectPath: CodeCoverage\Report\icon_plus.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_search-minus.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_search-minus.svg
+    projectPath: CodeCoverage\Report\icon_search-minus.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_search-plus.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_search-plus.svg
+    projectPath: CodeCoverage\Report\icon_search-plus.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_up-dir.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_up-dir.svg
+    projectPath: CodeCoverage\Report\icon_up-dir.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_up-dir_active.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_up-dir_active.svg
+    projectPath: CodeCoverage\Report\icon_up-dir_active.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\icon_wrench.svg
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\icon_wrench.svg
+    projectPath: CodeCoverage\Report\icon_wrench.svg
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\index.htm
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\index.htm
+    projectPath: CodeCoverage\Report\index.htm
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\main.js
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\main.js
+    projectPath: CodeCoverage\Report\main.js
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report\report.css
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\report.css
+    projectPath: CodeCoverage\Report\report.css
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report\Summary.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report\Summary.xml
+    projectPath: CodeCoverage\Report\Summary.xml
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\Report-history\2020-03-23_08-21-49_CoverageHistory.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report-history\2020-03-23_08-21-49_CoverageHistory.xml
+    projectPath: CodeCoverage\Report-history\2020-03-23_08-21-49_CoverageHistory.xml
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: CodeCoverage\Report-history\2020-03-23_09-49-48_CoverageHistory.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report-history\2020-03-23_09-49-48_CoverageHistory.xml
+    projectPath: CodeCoverage\Report-history\2020-03-23_09-49-48_CoverageHistory.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CodeCoverage\Report-history\2020-03-23_09-55-21_CoverageHistory.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report-history\2020-03-23_09-55-21_CoverageHistory.xml
+    projectPath: CodeCoverage\Report-history\2020-03-23_09-55-21_CoverageHistory.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CodeCoverage\Report-history\2020-03-23_10-06-26_CoverageHistory.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report-history\2020-03-23_10-06-26_CoverageHistory.xml
+    projectPath: CodeCoverage\Report-history\2020-03-23_10-06-26_CoverageHistory.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CodeCoverage\Report-history\2020-03-23_10-17-17_CoverageHistory.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\Report-history\2020-03-23_10-17-17_CoverageHistory.xml
+    projectPath: CodeCoverage\Report-history\2020-03-23_10-17-17_CoverageHistory.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CodeCoverage\That Time I Got Reincarnated As A Flappy Bird-opencov\Recording\RecordingCoverageResults_0000.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\That Time I Got Reincarnated As A Flappy Bird-opencov\Recording\RecordingCoverageResults_0000.xml
+    projectPath: CodeCoverage\That Time I Got Reincarnated As A Flappy Bird-opencov\Recording\RecordingCoverageResults_0000.xml
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: CodeCoverage\That Time I Got Reincarnated As A Flappy Bird-opencov\Recording\RecordingCoverageResults_0001.xml
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\CodeCoverage\That Time I Got Reincarnated As A Flappy Bird-opencov\Recording\RecordingCoverageResults_0001.xml
+    projectPath: CodeCoverage\That Time I Got Reincarnated As A Flappy Bird-opencov\Recording\RecordingCoverageResults_0001.xml
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: Library\expandedItems
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -84,14 +371,14 @@ MonoBehaviour:
       As A Flappy Bird\Library\LastSceneManagerSetup.txt
     projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
@@ -100,31 +387,80 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 3
+    workTreeStatus: 0
   - path: Library\StateCache\Hierarchy\a1eb60-mainStage.json
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
       As A Flappy Bird\Library\StateCache\Hierarchy\a1eb60-mainStage.json
     projectPath: Library\StateCache\Hierarchy\a1eb60-mainStage.json
     originalPath: 
-    indexStatus: 0
+    indexStatus: 3
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\2a2172-mainStage.json
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
-      As A Flappy Bird\Library\StateCache\SceneView\2a2172-mainStage.json
-    projectPath: Library\StateCache\SceneView\2a2172-mainStage.json
+      As A Flappy Bird\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
-      As A Flappy Bird\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+      As A Flappy Bird\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\manifest.json
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 3
+    workTreeStatus: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+      As A Flappy Bird\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

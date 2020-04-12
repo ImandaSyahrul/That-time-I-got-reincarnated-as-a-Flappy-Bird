@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>3/23/2020 - 10:17:18 AM</Generatedon>
+    <Parser>MultiReportParser (4x CoberturaParser, 1x OpenCoverParser)</Parser>
+    <Assemblies>2</Assemblies>
+    <Classes>14</Classes>
+    <Files>14</Files>
+    <Coveredlines>3</Coveredlines>
+    <Uncoveredlines>323</Uncoveredlines>
+    <Coverablelines>326</Coverablelines>
+    <Totallines>715</Totallines>
+    <Linecoverage>0.9</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="12" coverage="0" coveredlines="0" coverablelines="273" totallines="602" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Bird" coverage="0" coveredlines="0" coverablelines="72" totallines="145" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Bullet" coverage="0" coveredlines="0" coverablelines="16" totallines="36" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Destroyer" coverage="0" coveredlines="0" coverablelines="3" totallines="14" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="FireController" coverage="0" coveredlines="0" coverablelines="15" totallines="34" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Ground" coverage="0" coveredlines="0" coverablelines="19" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="GroundSpawner" coverage="0" coveredlines="0" coverablelines="16" totallines="49" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="MainMenu" coverage="0" coveredlines="0" coverablelines="6" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Parallax" coverage="0" coveredlines="0" coverablelines="33" totallines="55" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Pipe" coverage="0" coveredlines="0" coverablelines="19" totallines="44" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PipeSpawner" coverage="0" coveredlines="0" coverablelines="44" totallines="88" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Point" coverage="0" coveredlines="0" coverablelines="24" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="SceneLoader" coverage="0" coveredlines="0" coverablelines="6" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Assembly-CSharp-Editor-firstpass" classes="2" coverage="5.6" coveredlines="3" coverablelines="53" totallines="113" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="GitHub.Unity.ExtensionLoader" coverage="0" coveredlines="0" coverablelines="48" totallines="93" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="GitHub.Unity.UnityAPIWrapper" coverage="60" coveredlines="3" coverablelines="5" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

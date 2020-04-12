@@ -84,6 +84,9 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+      <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -102,6 +105,9 @@
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+      <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
@@ -116,6 +122,9 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+      <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/Imanda Syahrul R/Documents/Unity/That Time I Got Reincarnated As A Flappy Bird/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
