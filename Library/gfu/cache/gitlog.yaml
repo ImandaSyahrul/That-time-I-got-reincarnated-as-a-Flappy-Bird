@@ -13,9 +13,112 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-12T21:33:39.458+07:00
-  initializedAtString: 2020-04-12T21:33:39.341+07:00
+  lastUpdatedAtString: 2020-04-18T18:24:30.473+07:00
+  initializedAtString: 2020-04-18T18:24:30.391+07:00
   log:
+  - commitID: aa3252c97304dd9aacaf5a94dca5769819877087
+    mergeA: 
+    mergeB: 
+    authorName: ImandaSyahrul
+    authorEmail: ImandaSyahrul@github.com
+    commitEmail: ImandaSyahrul@github.com
+    commitName: ImandaSyahrul
+    summary: Add code coverage object and script for testing
+    description: 
+    timeString: 2020-04-18T18:20:57.000+07:00
+    commitTimeString: 2020-04-18T18:20:57.000+07:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Gameplay.unity
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scenes\Gameplay.unity
+      projectPath: Assets\Scenes\Gameplay.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\CodeCoverage.cs
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scripts\CodeCoverage.cs
+      projectPath: Assets\Scripts\CodeCoverage.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CodeCoverage.cs.meta
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Assets\Scripts\CodeCoverage.cs.meta
+      projectPath: Assets\Scripts\CodeCoverage.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\a1eb60-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Imanda Syahrul R\Documents\Unity\That Time I Got Reincarnated
+        As A Flappy Bird\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d74fc72d2a2c2b467d4b7856a01aef83e5c42575
     mergeA: 
     mergeB: 
