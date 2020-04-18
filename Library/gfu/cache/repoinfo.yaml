@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-04-12T17:39:51.952+07:00
-  initializedAtString: 2020-04-12T17:39:51.952+07:00
+  lastUpdatedAtString: 2020-04-18T18:15:53.975+07:00
+  initializedAtString: 2020-04-18T18:15:53.975+07:00
   currentGitRemote:
     name: origin
     url: https://github.com/ImandaSyahrul/That-time-I-got-reincarnated-as-a-Flappy-Bird
@@ -24,10 +24,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
+    name: code-coverage
     tracking: 
   currentConfigBranch:
-    name: master
+    name: code-coverage
     remote:
       name: 
       url: 

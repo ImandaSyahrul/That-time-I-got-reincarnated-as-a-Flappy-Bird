@@ -13,14 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-03-08T23:37:33.583+07:00
-  initializedAtString: 2020-03-08T23:37:33.468+07:00
+  lastUpdatedAtString: 2020-04-12T21:57:51.764+07:00
+  initializedAtString: 2020-04-12T21:33:35.982+07:00
   localBranches:
+  - name: code-coverage
+    tracking: 
   - name: master
     tracking: 
   - name: shooting
     tracking: 
   remoteBranches:
+  - name: origin/code-coverage
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   - name: origin/shooting
@@ -35,9 +39,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - code-coverage
     - master
     - shooting
     values:
+    - name: code-coverage
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: master
       remote:
         name: 
@@ -53,10 +63,16 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - code-coverage
       - master
       - shooting
     subKeyValues:
     - Values:
+      - name: code-coverage
+        remote:
+          name: origin
+          url: https://github.com/ImandaSyahrul/That-time-I-got-reincarnated-as-a-Flappy-Bird
+        trackingBranch: 
       - name: master
         remote:
           name: origin
