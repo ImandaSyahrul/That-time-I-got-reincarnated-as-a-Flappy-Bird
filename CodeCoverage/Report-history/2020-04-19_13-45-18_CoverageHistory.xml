@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2020-04-19_13-45-18" tag="">
+  <assembly name="Assembly-CSharp">
+    <class name="Bird" coveredlines="69" coverablelines="72" totallines="146" coveredbranches="0" totalbranches="0" />
+    <class name="Bullet" coveredlines="16" coverablelines="16" totallines="36" coveredbranches="0" totalbranches="0" />
+    <class name="CodeCoverage" coveredlines="41" coverablelines="43" totallines="74" coveredbranches="0" totalbranches="0" />
+    <class name="Destroyer" coveredlines="3" coverablelines="3" totallines="14" coveredbranches="0" totalbranches="0" />
+    <class name="FireController" coveredlines="15" coverablelines="15" totallines="34" coveredbranches="0" totalbranches="0" />
+    <class name="Ground" coveredlines="16" coverablelines="19" totallines="45" coveredbranches="0" totalbranches="0" />
+    <class name="GroundSpawner" coveredlines="16" coverablelines="16" totallines="49" coveredbranches="0" totalbranches="0" />
+    <class name="MainMenu" coveredlines="6" coverablelines="6" totallines="24" coveredbranches="0" totalbranches="0" />
+    <class name="Parallax" coveredlines="27" coverablelines="33" totallines="55" coveredbranches="0" totalbranches="0" />
+    <class name="Pipe" coveredlines="19" coverablelines="19" totallines="44" coveredbranches="0" totalbranches="0" />
+    <class name="PipeSpawner" coveredlines="44" coverablelines="44" totallines="88" coveredbranches="0" totalbranches="0" />
+    <class name="Point" coveredlines="24" coverablelines="24" totallines="50" coveredbranches="0" totalbranches="0" />
+    <class name="SceneLoader" coveredlines="6" coverablelines="6" totallines="18" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Assembly-CSharp-Editor-firstpass">
+    <class name="GitHub.Unity.ExtensionLoader" coveredlines="23" coverablelines="48" totallines="93" coveredbranches="0" totalbranches="0" />
+    <class name="GitHub.Unity.UnityAPIWrapper" coveredlines="3" coverablelines="5" totallines="20" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
