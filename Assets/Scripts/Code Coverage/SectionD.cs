@@ -78,10 +78,10 @@ public class SectionD : MonoBehaviour
 		return bil;
 	}
 
-	public String isAdaBil_45(int[] bil, int N, int cari)
+	public string isAdaBil_45(int[] bil, int N, int cari)
 	{
 		// pre kondisi N adalah panjang array bilangan
-		String status = "tidak ketemu";
+		string status = "tidak ketemu";
 		int i;
 
 		if (N > 0)

@@ -26,7 +26,7 @@ public class SectionC : MonoBehaviour
 		}
 	}
 
-	public int jumBil_22(int bil[], int N)
+	public int jumBil_22(int[] bil, int N)
 	{
 		int i, sum;
 
@@ -71,7 +71,7 @@ public class SectionC : MonoBehaviour
 		}
 	}
 
-	public bool cariBil_25(int bil[], int N, int cari)
+	public bool cariBil_25(int[] bil, int N, int cari)
 	{
 		int i;
 		bool ketemu = false;
@@ -120,7 +120,7 @@ public class SectionC : MonoBehaviour
 			Debug.Log(deretGenap[i] + " ");
 		}
 	}
-	public bool guessNumber_28(int guessBil[], int N, int secret)
+	public bool guessNumber_28(int[] guessBil, int N, int secret)
 	{
 		int i;
 		bool ketemu = false;
@@ -247,10 +247,10 @@ public class SectionC : MonoBehaviour
 		return result;
 	}
 
-	public String konversiDesToBiner_32(int bil)
+	public string konversiDesToBiner_32(int bil)
 	{
 		int sisa;
-		String biner;
+		string biner;
 
 		biner = " ";
 		do
@@ -296,7 +296,7 @@ public class SectionC : MonoBehaviour
 		}
 	}
 
-	public char[] geserBilKiri_36(char str[], int N, int nGeser)
+	public char[] geserBilKiri_36(char[] str, int N, int nGeser)
 	{
 		// Geser 3 kali
 		// str --> 1, 2, 5, 7

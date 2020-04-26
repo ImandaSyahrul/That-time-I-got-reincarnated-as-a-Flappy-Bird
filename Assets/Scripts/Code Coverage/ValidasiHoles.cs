@@ -19,18 +19,18 @@ public class ValidasiHoles : MonoBehaviour
         
     }
 
-    public void countHoles(String sentence)
+    public void countHoles(string sentence)
     {
         int i;
-        for (i = 0; i < sentence.length(); i++)
+        for (i = 0; i < sentence.Length; i++)
         {
-            if (sentence.charAt(i) == 'A' || sentence.charAt(i) == 'D' ||
-              sentence.charAt(i) == 'O' || sentence.charAt(i) == 'P' ||
-              sentence.charAt(i) == 'Q' || sentence.charAt(i) == 'R')
+            if (sentence[i] == 'A' || sentence[i] == 'D' ||
+              sentence[i] == 'O' || sentence[i] == 'P' ||
+              sentence[i] == 'Q' || sentence[i] == 'R')
             {
                 jumlahLubang = jumlahLubang + 1;
             }
-            else if (sentence.charAt(i) == 'B')
+            else if (sentence[i] == 'B')
             {
                 /* lubang di huruf B ada dua, 
                     perlu treatment khusus :) */

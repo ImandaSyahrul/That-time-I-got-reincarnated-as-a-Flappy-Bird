@@ -142,9 +142,9 @@ public class SectionB : MonoBehaviour
 		}
 	}
 
-	public String getDayFromNumber_07(int idxDay)
+	public string getDayFromNumber_07(int idxDay)
 	{
-		String day = "";
+		string day = "";
 
 		switch (idxDay)
 		{
@@ -188,7 +188,7 @@ public class SectionB : MonoBehaviour
 	public int getKuadran_09(int x, int y)
 	{
 		int kuadran = 0;
-		boolean isOnSB = false;
+		bool isOnSB = false;
 
 		if (x == 0 && y == 0)
 		{
